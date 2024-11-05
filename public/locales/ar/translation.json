@@ -1,0 +1,12 @@
+{
+    "Kafr El Sheikh" : "كفر الشيخ",
+     "Clear": "صافي" ,
+     "Partly Cloudy": "غائم جزئيا" ,
+     "Cloudy": "غائم" ,
+     "Overcast": "غائم كليا",
+     "Light Drizzle": "رذاذ خفيف" ,
+     "Moderate Drizzle": "رذاذ متوسط",
+     "Heavy Drizzle": "رذاذ كثيف",
+     "min": "الصغرى",
+     "max": "الكبرى"
+}
